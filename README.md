@@ -1,2 +1,2 @@
 # animate_coffee_cup
-Coffee cup with 'tude
+Coffee cup with attiude
